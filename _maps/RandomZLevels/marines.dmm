@@ -1,0 +1,248 @@
+"ak" = (/obj/structure/alien/egg/grown,/obj/structure/alien/weeds,/turf/open/floor/plasteel/white,/area/space)
+"ar" = (/obj/machinery/door/firedoor,/obj/machinery/door/airlock/medical{name = "Kitchen"; req_access_txt = "28"},/turf/open/floor/plasteel/dark,/area/space)
+"ax" = (/obj/structure/chair{dir = 8},/turf/open/floor/plasteel/dark,/area/space)
+"aD" = (/turf/open/floor/plasteel/white,/area/space)
+"aP" = (/obj/machinery/smartfridge,/turf/open/floor/plasteel/dark,/area/space)
+"bN" = (/obj/machinery/door/airlock/medical,/turf/open/floor/plasteel/white,/area/space)
+"cp" = (/obj/structure/alien/weeds,/mob/living/simple_animal/hostile/alien/sentinel,/turf/open/floor/plasteel/white,/area/space)
+"cv" = (/obj/effect/turf_decal/bot,/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/machinery/vending/wardrobe/chef_wardrobe,/turf/open/floor/plasteel/dark,/area/space)
+"cE" = (/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral,/obj/structure/chair/wood{dir = 4},/turf/open/floor/plasteel/dark,/area/space)
+"cV" = (/obj/structure/table,/obj/item/gun/energy/laser,/obj/item/gun/energy/laser,/obj/item/gun/energy/laser,/obj/item/gun/energy/laser,/obj/item/gun/energy/laser,/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"eZ" = (/obj/structure/alien/egg/grown,/obj/structure/alien/weeds/node,/turf/open/floor/glass/reinforced,/area/space)
+"fu" = (/obj/machinery/door/airlock/public,/obj/structure/alien/weeds,/turf/open/floor/glass/reinforced,/area/space)
+"fA" = (/obj/machinery/medical_kiosk,/turf/open/floor/plasteel/white,/area/space)
+"fH" = (/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/item/food/mint,/obj/item/reagent_containers/food/condiment/enzyme{pixel_x = -2; pixel_y = 6},/obj/item/reagent_containers/food/condiment/sugar{pixel_x = 5; pixel_y = 5},/obj/item/reagent_containers/glass/beaker,/obj/structure/table/reinforced,/turf/open/floor/plasteel/dark,/area/space)
+"fL" = (/obj/structure/alien/egg/grown,/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"fP" = (/mob/living/simple_animal/hostile/alien/drone,/turf/open/floor/plasteel/white,/area/space)
+"fT" = (/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/machinery/reagentgrinder{pixel_y = 5},/obj/structure/table/reinforced,/turf/open/floor/plasteel/dark,/area/space)
+"gj" = (/obj/structure/table/wood,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral,/turf/open/floor/plasteel/dark,/area/space)
+"hy" = (/obj/item/chair,/turf/open/floor/plasteel/dark,/area/space)
+"hM" = (/obj/machinery/deepfryer,/obj/effect/turf_decal/bot,/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/effect/turf_decal/tile/neutral{dir = 1},/turf/open/floor/plasteel/dark,/area/space)
+"hV" = (/obj/machinery/light{dir = 1},/obj/structure/sign/poster/official/enlist{pixel_y = 32},/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"id" = (/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"iD" = (/obj/machinery/requests_console{department = "Arrival shuttle"; name = "Arrivals Shuttle console"; pixel_y = 30},/obj/machinery/light{dir = 1},/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"jB" = (/obj/structure/table/reinforced,/obj/effect/turf_decal/delivery,/obj/item/storage/fancy/donut_box,/turf/open/floor/plasteel/dark,/area/space)
+"jI" = (/obj/machinery/chem_dispenser/drinks{dir = 8},/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/structure/table,/obj/item/radio/intercom{pixel_x = 28},/turf/open/floor/plasteel/dark,/area/space)
+"jO" = (/obj/structure/table,/obj/item/choice_beacon/spec,/obj/item/choice_beacon/spec,/obj/item/choice_beacon/spec,/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"lv" = (/obj/structure/alien/weeds,/turf/open/floor/glass/reinforced,/area/space)
+"lK" = (/obj/structure/table,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"ma" = (/obj/item/kirbyplants{icon_state = "plant-17"; pixel_x = 8; pixel_y = 3},/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"md" = (/obj/structure/alien/weeds,/obj/item/storage/backpack/duffelbag/med/surgery,/obj/structure/table,/turf/open/floor/plasteel/white,/area/space)
+"mR" = (/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/turf/open/floor/plasteel/dark,/area/space)
+"nn" = (/obj/machinery/chem_dispenser/drinks/beer{dir = 8},/obj/effect/turf_decal/stripes/corner{dir = 4},/obj/structure/table,/obj/structure/extinguisher_cabinet{pixel_x = 24},/obj/machinery/camera{c_tag = "Bar Counter"; dir = 8; name = "bar camera"},/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"nu" = (/obj/machinery/door/airlock/public,/turf/open/floor/glass/reinforced,/area/space)
+"nR" = (/obj/structure/closet/wardrobe/mixed,/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"oe" = (/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/machinery/griddle,/turf/open/floor/plasteel/dark,/area/space)
+"oG" = (/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/item/kirbyplants{icon_state = "plant-21"},/turf/open/floor/plasteel/dark,/area/space)
+"pf" = (/mob/living/simple_animal/hostile/alien,/turf/open/floor/plasteel/dark,/area/space)
+"pF" = (/obj/effect/spawner/structure/window/reinforced/indestructable,/turf/open/floor/plating,/area/space)
+"pY" = (/obj/structure/table/wood,/obj/item/radio{desc = "An old handheld radio. You could use it, if you really wanted to."; icon_state = "radio"; name = "old radio"},/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"qe" = (/obj/structure/flora/rock/jungle,/turf/open/floor/plating/grass/jungle,/area/space)
+"qT" = (/obj/structure/flippedtable{dir = 1},/turf/open/floor/glass/reinforced,/area/space)
+"ra" = (/obj/structure/flora/grass/jungle{icon_state = "grassb5"},/turf/open/floor/plating/grass/jungle,/area/space)
+"rL" = (/turf/open/floor/mineral/titanium,/area/awaymission/centcom_away)
+"rN" = (/obj/structure/table/wood,/obj/item/paper_bin{pixel_x = -4; pixel_y = 4},/obj/item/book/manual/wiki/barman_recipes{pixel_x = 4; pixel_y = 4},/obj/item/pen,/obj/effect/decal/cleanable/cobweb/cobweb2,/obj/machinery/requests_console{department = "Bar"; departmentType = 2; name = "Bar RC"; pixel_x = 30; receive_ore_updates = 1},/turf/open/floor/plasteel/dark,/area/space)
+"rW" = (/obj/machinery/door/airlock/public,/turf/open/floor/plasteel/dark,/area/space)
+"tk" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/turf/open/floor/plasteel/dark,/area/space)
+"tm" = (/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/item/storage/bag/tray,/obj/structure/table/reinforced,/turf/open/floor/plasteel/dark,/area/space)
+"tv" = (/obj/structure/chair,/turf/open/floor/plasteel/dark,/area/space)
+"tB" = (/obj/structure/table,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"tJ" = (/obj/structure/shuttle/engine/propulsion/burst/left{dir = 4},/turf/open/floor/plating/airless,/area/awaymission/centcom_away)
+"tL" = (/obj/machinery/vending/liberationstation,/turf/open/floor/plasteel/dark,/area/space)
+"um" = (/obj/machinery/vending/medical,/turf/open/floor/plasteel/white,/area/space)
+"uL" = (/obj/structure/table/wood,/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"uM" = (/obj/structure/alien/egg/grown,/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/turf/open/floor/glass/reinforced,/area/space)
+"vG" = (/obj/structure/table/wood,/obj/item/storage/fancy/donut_box,/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"wr" = (/obj/structure/alien/weeds/node,/turf/open/floor/plasteel/white,/area/space)
+"wB" = (/obj/structure/table,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"wF" = (/obj/structure/closet/emcloset,/obj/item/storage/firstaid/o2,/obj/item/tank/internals/emergency_oxygen,/obj/item/clothing/mask/breath,/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"wU" = (/obj/structure/alien/weeds,/obj/machinery/iv_drip,/turf/open/floor/plasteel/white,/area/space)
+"xQ" = (/obj/item/radio/intercom{name = "Station Intercom (General)"; pixel_y = -29},/obj/machinery/light,/obj/structure/table,/obj/item/gun/ballistic/automatic/pistol/PL14,/obj/item/gun/ballistic/automatic/pistol/PL14,/obj/item/gun/ballistic/automatic/pistol/PL14,/obj/item/gun/ballistic/automatic/pistol/PL14,/obj/item/gun/ballistic/automatic/pistol/PL14,/obj/item/gun/ballistic/automatic/pistol/PL14,/obj/item/gun/ballistic/automatic/pistol/PL14,/obj/item/gun/ballistic/automatic/pistol/PL14,/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"ye" = (/obj/structure/table/wood,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral,/obj/structure/displaycase/forsale,/turf/open/floor/plasteel/dark,/area/space)
+"yx" = (/obj/effect/spawner/structure/window/reinforced/indestructable,/obj/effect/spawner/structure/window/reinforced/indestructable,/turf/open/floor/plasteel/dark,/area/space)
+"yy" = (/obj/structure/shuttle/engine/propulsion/burst/right{dir = 4},/turf/open/floor/plating/airless,/area/awaymission/centcom_away)
+"yE" = (/obj/structure/closet/wardrobe/black,/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"yR" = (/turf/open/space/basic,/area/space)
+"zf" = (/turf/closed/indestructible/opshuttle,/area/space)
+"zC" = (/obj/structure/flora/grass/jungle{icon_state = "grassb2"},/turf/open/floor/plating/grass/jungle,/area/space)
+"zW" = (/obj/structure/table,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/machinery/microwave{pixel_y = 5},/obj/machinery/light{dir = 1},/turf/open/floor/plasteel/dark,/area/space)
+"Ad" = (/obj/machinery/deepfryer,/obj/effect/turf_decal/bot,/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral,/turf/open/floor/plasteel/dark,/area/space)
+"Aq" = (/obj/structure/shuttle/engine/heater{dir = 4},/obj/structure/window/reinforced{dir = 8},/turf/open/floor/plating/airless,/area/awaymission/centcom_away)
+"Aw" = (/obj/item/gun/energy/laser/captain/scattershot,/obj/structure/table,/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"Bg" = (/obj/effect/turf_decal/tile/red,/obj/effect/turf_decal/tile/red{dir = 1},/obj/machinery/vending/dinnerware,/turf/open/floor/plasteel/dark,/area/space)
+"Bx" = (/obj/structure/alien/weeds,/obj/structure/bed/pod,/turf/open/floor/plasteel/white,/area/space)
+"BA" = (/obj/machinery/vending/cola/pwr_game,/turf/open/floor/plasteel/dark,/area/space)
+"BU" = (/turf/open/floor/glass/reinforced,/area/space)
+"BZ" = (/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/item/reagent_containers/food/condiment/peppermill{desc = "Often used to flavor food or make people sneeze. Fashionably moved to the left side of the table."; pixel_x = -8; pixel_y = 2},/obj/item/reagent_containers/food/condiment/saltshaker{desc = "Salt. From space oceans, presumably. A staple of modern medicine."; pixel_x = -8; pixel_y = 12},/obj/effect/spawner/lootdrop/donkpockets,/obj/item/storage/box/donkpockets,/obj/structure/table/reinforced,/turf/open/floor/plasteel/dark,/area/space)
+"CM" = (/obj/structure/chair/office,/turf/open/floor/plasteel/white,/area/space)
+"CQ" = (/obj/structure/window/reinforced/fulltile/indestructable,/turf/open/floor/plasteel/dark,/area/space)
+"CR" = (/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"Dh" = (/obj/structure/alien/egg/grown,/obj/structure/alien/weeds,/turf/open/floor/glass/reinforced,/area/space)
+"Dz" = (/obj/structure/table/wood,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral,/obj/item/storage/box/matches{pixel_x = -4; pixel_y = 6},/obj/item/lighter{pixel_x = 4; pixel_y = 4},/obj/item/lighter,/turf/open/floor/plasteel/dark,/area/space)
+"DJ" = (/mob/living/simple_animal/hostile/alien/sentinel,/turf/open/floor/plasteel/white,/area/space)
+"DK" = (/mob/living/simple_animal/hostile/alien/drone,/turf/open/floor/plasteel/dark,/area/space)
+"Ey" = (/obj/machinery/vending/snack/teal,/turf/open/floor/plasteel/dark,/area/space)
+"EV" = (/obj/structure/table,/obj/item/storage/firstaid/toxin,/turf/open/floor/plasteel/white,/area/space)
+"EW" = (/turf/open/floor/plasteel/dark,/area/space)
+"Fc" = (/obj/structure/table,/turf/open/floor/plasteel/white,/area/space)
+"Fn" = (/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/effect/turf_decal/tile/neutral{dir = 1},/turf/open/floor/plasteel/dark,/area/space)
+"FE" = (/obj/structure/grille,/obj/structure/window/shuttle,/obj/machinery/door/poddoor/shutters/preopen{id = "arrivy"; name = "ship shutters"},/turf/open/floor/plating,/area/awaymission/centcom_away)
+"FQ" = (/obj/machinery/light/small,/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"FU" = (/obj/item/kirbyplants/random,/turf/open/floor/plasteel/dark,/area/space)
+"FY" = (/obj/structure/chair/comfy/shuttle{dir = 8},/obj/effect/landmark/awaystart,/turf/open/floor/mineral/titanium,/area/awaymission/centcom_away)
+"GC" = (/obj/structure/flora/tree/jungle/small,/turf/open/floor/plating/grass/jungle,/area/space)
+"GJ" = (/mob/living/simple_animal/hostile/alien/drone,/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/turf/open/floor/plasteel/white,/area/space)
+"Hi" = (/obj/structure/alien/weeds/node,/turf/open/floor/plasteel/dark,/area/space)
+"Jg" = (/obj/machinery/iv_drip,/obj/structure/bed/roller,/turf/open/floor/plasteel/white,/area/space)
+"Jk" = (/obj/machinery/door/airlock/titanium{name = "Arrivals Shuttle Airlock"},/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"Jz" = (/obj/structure/shuttle/engine/propulsion{dir = 4},/turf/open/floor/plating/airless,/area/awaymission/centcom_away)
+"Ku" = (/obj/structure/alien/weeds,/obj/structure/alien/weeds/node,/turf/open/floor/plasteel/white,/area/space)
+"Kx" = (/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral,/obj/structure/alien/egg/burst,/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"Lt" = (/obj/effect/spawner/structure/window/reinforced/indestructable,/turf/open/space/basic,/area/space)
+"LL" = (/obj/structure/table/reinforced,/obj/effect/turf_decal/delivery,/obj/item/reagent_containers/food/condiment/peppermill{desc = "Often used to flavor food or make people sneeze. Fashionably moved to the left side of the table."; pixel_x = -8; pixel_y = 2},/obj/item/reagent_containers/food/condiment/saltshaker{desc = "Salt. From space oceans, presumably. A staple of modern medicine."; pixel_x = -8; pixel_y = 12},/obj/structure/window/reinforced,/obj/item/food/pie/cream,/turf/open/floor/plasteel/dark,/area/space)
+"LY" = (/obj/structure/chair{dir = 4},/turf/open/floor/plasteel/dark,/area/space)
+"Mc" = (/obj/structure/flora/grass/jungle,/turf/open/floor/plating/grass/jungle,/area/space)
+"Mu" = (/obj/machinery/door/airlock/external,/turf/open/floor/plasteel/dark,/area/space)
+"MN" = (/obj/item/chair{dir = 4},/turf/open/floor/plasteel/dark,/area/space)
+"MP" = (/obj/structure/shuttle/engine/propulsion{dir = 4},/obj/docking_port/mobile/arrivals{height = 13; name = "pubby arrivals shuttle"; width = 6},/turf/open/floor/plating/airless,/area/awaymission/centcom_away)
+"NJ" = (/mob/living/simple_animal/hostile/alien,/obj/structure/alien/weeds,/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"Oy" = (/obj/structure/table,/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"OF" = (/obj/structure/alien/weeds,/turf/open/floor/plasteel/white,/area/space)
+"Pb" = (/obj/structure/chair/comfy/shuttle{dir = 8},/turf/open/floor/mineral/titanium,/area/awaymission/centcom_away)
+"Ps" = (/mob/living/simple_animal/hostile/alien,/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"Px" = (/obj/effect/spawner/structure/window/reinforced/indestructable,/turf/open/floor/plasteel/dark,/area/space)
+"PF" = (/obj/item/gun/energy/laser/hellgun,/obj/structure/table,/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"Qb" = (/obj/structure/table/reinforced,/obj/effect/turf_decal/delivery,/obj/item/reagent_containers/food/condiment/peppermill{desc = "Often used to flavor food or make people sneeze. Fashionably moved to the left side of the table."; pixel_x = -8; pixel_y = 2},/obj/item/reagent_containers/food/condiment/saltshaker{desc = "Salt. From space oceans, presumably. A staple of modern medicine."; pixel_x = -8; pixel_y = 12},/obj/item/toy/figure/chef,/turf/open/floor/plasteel/dark,/area/space)
+"Qh" = (/obj/structure/table,/obj/item/storage/firstaid/regular{pixel_y = 4},/obj/item/storage/toolbox/emergency,/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"Qu" = (/obj/structure/table,/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/machinery/microwave{pixel_y = 5},/turf/open/floor/plasteel/dark,/area/space)
+"QR" = (/obj/effect/turf_decal/tile/red,/obj/effect/turf_decal/tile/red{dir = 1},/turf/open/floor/plasteel/dark,/area/space)
+"QX" = (/obj/structure/chair{dir = 1},/turf/open/floor/plasteel/white,/area/space)
+"Ro" = (/obj/structure/table/wood,/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/item/clipboard,/obj/item/reagent_containers/food/drinks/shaker{pixel_x = -2; pixel_y = 2},/obj/item/toy/figure/bartender{pixel_x = 8; pixel_y = 2},/obj/item/reagent_containers/glass/rag,/turf/open/floor/plasteel/dark,/area/space)
+"Sg" = (/mob/living/simple_animal/hostile/alien,/turf/open/floor/plasteel/white,/area/space)
+"Te" = (/obj/structure/flora/junglebush/c,/turf/open/floor/plating/grass/jungle,/area/space)
+"Tq" = (/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/structure/chair/wood,/turf/open/floor/plasteel/dark,/area/space)
+"Tt" = (/obj/structure/table/wood,/obj/item/storage/fancy/cigarettes/cigars{pixel_x = 2; pixel_y = 6},/obj/item/storage/fancy/cigarettes/cigars/havana{pixel_x = 2; pixel_y = 8},/obj/item/storage/fancy/cigarettes/cigars/cohiba{pixel_x = 2; pixel_y = 10},/obj/machinery/firealarm{dir = 8; pixel_x = 28},/obj/machinery/light{dir = 4},/turf/open/floor/plasteel/dark,/area/space)
+"Tv" = (/obj/structure/flora/grass/jungle/b,/turf/open/floor/plating/grass/jungle,/area/space)
+"Uv" = (/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/structure/table/wood,/turf/open/floor/plasteel/dark,/area/space)
+"Ux" = (/obj/structure/table/reinforced,/turf/open/floor/plasteel/dark,/area/space)
+"Uy" = (/obj/structure/table,/obj/item/storage/firstaid/regular,/turf/open/floor/plasteel/white,/area/space)
+"Vd" = (/mob/living/simple_animal/hostile/alien/drone,/obj/structure/alien/weeds,/turf/open/floor/plasteel/white,/area/space)
+"Vp" = (/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/structure/table/wood,/turf/open/floor/plasteel/dark,/area/space)
+"VM" = (/obj/structure/table,/obj/effect/turf_decal/tile/neutral,/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"VS" = (/obj/machinery/vending/cigarette,/turf/open/floor/plasteel/dark,/area/space)
+"Wa" = (/obj/structure/flora/grass/jungle{icon_state = "grassb2"},/obj/structure/flora/junglebush,/turf/open/floor/plating/grass/jungle,/area/space)
+"Ww" = (/obj/structure/extinguisher_cabinet{pixel_y = -29},/obj/machinery/light,/obj/item/gun/energy/sniper/pin,/obj/structure/table,/turf/open/floor/mineral/titanium/blue,/area/awaymission/centcom_away)
+"WT" = (/obj/structure/sink{dir = 4; pixel_x = -12},/obj/structure/alien/weeds,/turf/open/floor/plasteel/dark,/area/space)
+"WY" = (/obj/structure/chair{dir = 4},/turf/open/floor/plasteel/white,/area/space)
+"WZ" = (/obj/machinery/door/airlock/titanium{name = "Arrivals Shuttle Airlock"},/turf/open/floor/plating,/area/awaymission/centcom_away)
+"Xi" = (/obj/effect/spawner/structure/window/shuttle,/turf/open/floor/plating,/area/awaymission/centcom_away)
+"Xk" = (/turf/closed/wall/mineral/titanium,/area/awaymission/centcom_away)
+"Xu" = (/obj/structure/chair{dir = 1},/turf/open/floor/plasteel/dark,/area/space)
+"XU" = (/obj/structure/alien/weeds,/obj/machinery/sleeper,/turf/open/floor/plasteel/white,/area/space)
+"Ym" = (/turf/open/floor/plating/grass/jungle,/area/space)
+"YE" = (/obj/effect/turf_decal/delivery,/obj/machinery/processor,/obj/effect/turf_decal/tile/neutral{dir = 4},/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/machinery/light,/turf/open/floor/plasteel/dark,/area/space)
+"YP" = (/obj/structure/table,/turf/open/floor/plasteel/dark,/area/space)
+"Zs" = (/obj/effect/turf_decal/tile/neutral{dir = 1},/obj/effect/turf_decal/tile/neutral{dir = 8},/obj/item/food/dough,/obj/item/food/dough,/obj/item/kitchen/rollingpin,/obj/item/kitchen/rollingpin,/obj/structure/table/reinforced,/turf/open/floor/plasteel/dark,/area/space)
+
+(1,1,1) = {"
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfzfzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfzfzfzfyRzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfzfzfzfzfzfzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfOFOFOFOFOFOFOFXUmdXUOFzfyRyRyRyRyRyRyRyRyRyRyRyRzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfaDOFakOFGJOFOFVdOFOFBxzfyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfJgfPaDOFOFOFOFOFKucpwUzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfaDaDaDfPaDOFKuakOFOFBxzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfJgaDaDaDaDSgOFOFOFOFwUzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfzfzfzfzfzfzfzffufufuzfzfzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfzfbNbNzfbNzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFlvlvlvpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfaDaDaDFcaDaDaDDJaDFcumzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFDhlvlvpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfaDaDaDUyaDaDaDaDaDFcaDzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFlvlvlvpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfaDaDaDEVaDaDCMaDDJFcaDzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFlvlvlvpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfWYaDaDFcFcFcFcFcFcFcaDzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFlvlvlvpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfWYaDaDaDaDaDaDaDaDaDaDzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFBUlveZpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfWYaDaDaDaDaDaDwraDaDaDzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFBUBUlvpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfWYaDfAaDaDaDaDaDaDaDaDzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFBUBUlvpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfWYaDaDaDaDaDaDaDaDaDaDzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfaDaDaDaDaDaDaDQXQXQXQXzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRzfzfzfzfzfnununuzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFlvBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFuMlvBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFlvBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfBUBUBUzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfBUBUBUzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfBUqTBUzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFqTBUqTpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfqTBUqTzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUqTBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfzfzfzfBUBUBUzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfzfzfzfzfzfzfzfzfnununuzfzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfzfzfzfzfzfzfzfyRyRyRzfzfzfzfzfzfzfzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfBZfTZsfHtmQbUxzfEWEWEWEWEWEWEWmRmRmRmRmRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzffLPsCRCRQRQRzWzfEWEWEWEWEWEWEWmRTqTqTqTqzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfWTtktBlKwBQRQuaPEWEWCQCQCQEWEWcEyeRoUvVpzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRpFBUBUBUpFyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfKxCROyVMoeQRQRjBEWEWCQTvCQEWpfcEpYCRmarNzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRzfzfzfnununuzfzfzfzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRzfBgCRCRQRQRQRQRLLEWpfCQraCQEWEWCRuLfLHiTtzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRzfBAEWEWEWEWEWEWEWEWEWhyzfyRyRyRyRyRyRyRyRyRyRyRyRyRzfcvFnhMYEAdQRQRarEWEWCQMcCQEWCRCRvGCRNJCRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRzfVSEWEWEWEWEWEWEWEWEWEWzfyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfzfzfzfzfzfzfEWEWCQYmCQEWEWcEgjCRCRnnzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRzfEyEWEWFUXuYPXuFUEWEWMNzfyRyRyRyRyRyRyRyRyRyRyRyRyRzfEWEWEWEWEWEWEWEWEWEWCQGCCQEWEWcEDzoGfLjIzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRzfEWEWaxPxPxyxPxPxLYEWEWzfyRyRyRyRyRyRyRyRyRyRyRyRyRzfEWDKEWCQCQEWDKEWEWEWCQCQCQEWEWEWzfzfrWzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRzfEWEWEWFUtvYPtvFUEWEWEWzfpFpFpFpFpFpFpFpFpFpFpFpFpFzfEWEWCQTeWaCQEWEWEWEWEWEWEWEWEWEWEWEWEWEWzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRzfEWEWEWEWEWEWEWEWEWEWEWnuBUBUBUBUBUBUBUBUBUBUBUBUBUnuEWEWCQzCqeCQEWEWEWpfEWEWEWEWEWEWEWEWEWEWzfpFpFpFpFpFpFpFpFpFpFpFpFpFpFpFpFzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRzfEWEWEWEWXuXuXuEWEWEWEWnuBUBUBUBUBUBUBUBUBUBUBUBUBUnuEWEWEWCQCQEWEWEWEWEWEWEWEWEWEWEWpfEWEWEWnuBUBUBUBUBUBUBUBUBUBUBUBUBUBUBUBUzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRzfzfLtMuLtzfzfzfLtMuLtzfzfpFpFpFpFpFpFpFpFpFpFpFpFpFzfEWEWDKEWEWEWpfEWPxPxPxPxEWEWEWEWEWEWEWEWnuBUBUBUBUBUBUBUBUBUBUBUBUBUBUBUBUzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRLtEWLtyRyRyRLtEWLtyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfEWEWEWEWEWEWPxPxyRyRPxPxEWEWEWEWEWEWEWzfpFpFpFpFpFpFpFpFpFpFpFpFpFpFpFpFzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRLtMuLtyRyRyRLtMuLtyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfEWtLEWEWPxPxyRyRyRyRPxPxEWEWXuXuXuzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRXkXkWZXkXiXiXiXkWZXkXkyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfPxPxPxyRyRyRyRyRyRPxPxPxzfzfzfzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRXkXkXkQhidhVyEnRidiDidAqyyyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfzfyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRFEidJkrLFYrLFYrLPbPbrLAqMPyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRFEFQJkrLFYrLFYrLPbPbrLAqJzyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRXkXkXkwFidWwAwPFcVxQjOAqtJyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRXkXkXkXkXiXiXiXkXkXkXkyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+yRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyRyR
+"}
