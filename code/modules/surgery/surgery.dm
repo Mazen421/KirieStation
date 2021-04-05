@@ -57,9 +57,6 @@
 		else
 			return TRUE
 
-	if(!requires_tech && !replaced_by)
-		return TRUE
-
 	if(requires_tech)
 		. = FALSE
 
@@ -71,6 +68,21 @@
 				return FALSE
 			if(type in SP.advanced_surgeries)
 				return TRUE
+
+	//Bungalow surgery skill
+	if(ishuman(user))
+		var/mob/living/carbon/human/H = user
+		//This is the trait given to doctors and surgeons alike.
+		if(!(HAS_TRAIT(H, TRAIT_BASIC_SURGEON)) && !(HAS_TRAIT(H.mind, TRAIT_BASIC_SURGEON)))
+			if(!is_species(H))
+				return FALSE
+			else if(location != BODY_ZONE_CHEST || !(user == patient))
+				return FALSE
+
+	if(!requires_tech && !replaced_by)
+		return TRUE
+
+
 
 	var/turf/T = get_turf(patient)
 
