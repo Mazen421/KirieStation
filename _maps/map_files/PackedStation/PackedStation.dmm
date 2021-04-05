@@ -22903,6 +22903,9 @@
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
 	dir = 1
 	},
+/obj/machinery/light{
+	light_color = "#d1dfff"
+	},
 /turf/open/floor/plasteel/dark,
 /area/engine/engineering)
 "gBK" = (
@@ -27913,6 +27916,13 @@
 /obj/structure/closet/secure_closet/medical2,
 /turf/open/floor/plasteel/showroomfloor,
 /area/maintenance/aft)
+"myq" = (
+/obj/machinery/suit_storage_unit,
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/engine/engineering)
 "mzu" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
@@ -31292,6 +31302,9 @@
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
 	dir = 1
 	},
+/obj/machinery/light{
+	light_color = "#d1dfff"
+	},
 /turf/open/floor/plasteel/dark,
 /area/engine/engineering)
 "qKS" = (
@@ -31441,6 +31454,9 @@
 /obj/item/stack/rods/fifty,
 /obj/item/stack/rods/fifty,
 /obj/item/stack/rods/fifty,
+/obj/machinery/light{
+	dir = 4
+	},
 /turf/open/floor/plasteel/dark,
 /area/engine/engineering)
 "qVb" = (
@@ -64552,7 +64568,7 @@ aaa
 pHr
 qTt
 cGK
-yhH
+myq
 pHr
 aaa
 aaa

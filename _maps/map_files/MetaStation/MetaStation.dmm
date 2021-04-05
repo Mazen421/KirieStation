@@ -52605,6 +52605,9 @@
 	dir = 1
 	},
 /obj/effect/landmark/start/voidtech,
+/obj/machinery/light{
+	dir = 8
+	},
 /turf/open/floor/plasteel/dark,
 /area/engine/storage_shared)
 "dgj" = (
@@ -55828,6 +55831,13 @@
 /mob/living/carbon/human/species/monkey/punpun,
 /turf/open/floor/plasteel,
 /area/crew_quarters/bar)
+"enr" = (
+/obj/machinery/suit_storage_unit,
+/obj/machinery/light{
+	light_color = "#d1dfff"
+	},
+/turf/open/floor/plasteel/dark,
+/area/engine/storage_shared)
 "enV" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer2,
@@ -126084,7 +126094,7 @@ hUG
 vyS
 vyS
 cYj
-cYj
+enr
 hUG
 qrL
 bjR
