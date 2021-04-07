@@ -34,6 +34,13 @@
 	new /obj/item/storage/belt/rapier(src)
 
 
+/obj/item/storage/box/sabre/plasma
+	name = "Plasma Blade"
+	desc = "This captain loves plasma, and plasmaburns"
+
+/obj/item/storage/box/sabre/rapier/PopulateContents()
+	new /obj/item/storage/belt/plasmablade(src)
+
 
 /obj/item/storage/box/sabre/lance
 	name = "Lance of Longinus"
