@@ -41790,6 +41790,9 @@
 "dxv" = (
 /obj/machinery/suit_storage_unit,
 /obj/machinery/suit_storage_unit,
+/obj/machinery/light{
+	dir = 1
+	},
 /turf/open/floor/plasteel,
 /area/engine/engineering)
 "dyk" = (
@@ -48576,6 +48579,9 @@
 /area/crew_quarters/heads/captain)
 "mxK" = (
 /obj/structure/closet,
+/obj/machinery/light{
+	dir = 1
+	},
 /turf/open/floor/plasteel,
 /area/engine/engineering)
 "myb" = (
